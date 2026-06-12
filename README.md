@@ -1,3 +1,6 @@
+> **Historical fork:** this repository remains available to preserve the original fork relationship and team history. The polished, independent portfolio repository is now [NexusNTU-Student-Companion](https://github.com/aish-1509/NexusNTU-Student-Companion).
+
+
 <div align="center">
   <img src="docs/assets/nexusntu-banner.svg" alt="NexusNTU - AI-enabled international student companion" width="100%" />
 
